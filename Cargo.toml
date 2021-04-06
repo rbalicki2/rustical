@@ -1,0 +1,13 @@
+[package]
+name = "rustical"
+version = "0.0.1"
+authors = ["Robert Balicki <robert.balicki@gmail.com>"]
+edition = "2018"
+license = "MIT"
+homepage = "https://github.com/rbalicki2/rustical"
+documentation = "https://github.com/rbalicki2/rustical"
+repository = "https://github.com/rbalicki2/rustical"
+readme = "README.md"
+description = "GraphQL in Rust"
+
+[dependencies]
